@@ -1,0 +1,125 @@
+
+41001  34.75N 72.18W   S   S   S   S   S   S   S   S   Buoy adrift recovered 11/2/21.
+41002  31.75N 74.93W   100 100 100 99  99  100 88  100 Water temperature data intermittent.
+41004*  32.50N 79.08W   100 100 100 98  98  99  97  99  Water temperature data intermittent.
+41008*  31.40N 80.85W   99  99  99  99  99  99  98  S   Dewpoint data failed 8/02/21.
+41009*  28.50N 80.18W   100 100 100 97  97  100 88  100 Water temperature data intermittent.
+41010*  28.87N 78.48W   100 100 100 99  99  100 91  100 Wave data intermittent 10/11/21. Water temperature data intermittent.
+41013*  33.43N 77.75W   100 100 100 99  99  100 89  100 Water temperature data intermittent.
+41025*   35.00N 75.45W   100 100 100 S   S   99  89  83  Dewpoint data intermittent. Water temperature data intermittent. Wave data failed 01/26/22.
+41040*   14.53N 53.33W   100 100 100 99  99  100 91  100 
+41041*    14.45N 46.32W   S   S   S   S   S   S   S   S   Adrift buoy recovered 10/14/21.
+41043*   21.02N 64.78W   100 100 100 99  99  100 S   100 Water temperature ceased 10/27/21. Water temperature data intermittent.
+41044*  21.57N 58.62W   100 S   100 99  99  S   90  S   Wind direction data failed 9/11/21. Humidity data failed 1/10/21. Air and Water temperature data intermittent.
+41046*  23.82N 68.38W   100 100 100 97  97  99  87  99  Water temperature data intermittent.
+41047*  27.45N 71.45W   100 100 100 100 100 100 90  100 Water temperature data is intermittent.
+41048*  31.82N 69.57W   100 100 100 99  99  100 87  100 Wind direction data intermittent 10/09/21. Water temperature data intermittent.
+41049*    27.48N 62.93W   100 100 100 99  99  100 92  100 Water temperature data intermittent.
+42001*   25.93N 89.65W   S   S   S   S   S   S   S   S   Adrift buoy recovered 07/27/21.
+42002*  26.05N 93.63W   100 100 100 99  99  100 89  93  Water temperature data intermittent.
+42003*   25.92N 85.60W   S   S   S   S   S   S   S   S   Transmissions ceased 12/1/21.
+42012*   30.05N 87.53W   100 100 S   98  98  100 89  S   Barometric pressure data failed 06/21/21. Humidity failed 4/24/21. Air temperature data intermittent.
+42019*   27.90N 95.33W   100 S   100 98  98  100 S   100 Wind direction data failed 09/14/21. Water temperature data missing 12/27/21.
+42020*    26.97N 96.68W   100 100 100 99  99  99  86  98  Water temperature data intermittent.
+42035*    29.22N 94.40W   91  91  92  S   S   91  S   91  Wave data missing 09/13/21. Water temperature data missing 9/30/21.
+42036*   28.50N 84.50W   100 100 99  99  99  100 85  100 Water temperature data intermittent.
+42039*    28.78N 86.00W   100 100 100 98  98  99  85  99  Water temperature data intermittent.
+42040*  29.20N 88.23W   100 100 100 98  98  100 91  100 Water temperature data intermittent.
+42055*   22.12N 93.93W   100 100 100 99  99  S   91  S   Air temperature and dewpoint data missing 09/02/21. Wind direction data missing 1/1/2022.
+42056*    19.82N 84.93W   S   S   S   69  69  S   9   S   Sea-level pressure data missing. All data reporting intermittently.
+42057*    16.90N 81.42W   S   S   S   S   S   S   S   S   Buoy adrift 12/12/20. Data release stopped.
+42058*    14.38N 74.80W   S   S   S   S   S   S   S   S   Buoy adrift 9/24/21. Data release stopped.
+42059*    15.28N 67.47W   100 100 100 98  98  100 87  100 Water temperature data intermittent.
+42060*  16.43N 63.32W   100 S   100 99  99  99  S   S   Wind direction data failed 06/21/21. Dewpoint data failed 7/29/20. Water temperature data missing.
+44005*   43.20N 69.12W   100 100 100 100 100 100 100 100 
+44007*  43.52N 70.13W   100 100 100 27  27  100 86  100 Waves transmissions are intermittent 12/12/21. Water temperature data intermittent.
+44008*    40.48N 69.25W   100 100 100 99  99  100 90  100 Water temperature data intermittent.
+44009*  38.45N 74.68W   100 100 100 99  99  100 91  100 Water temperature data intermittent.
+44011* 41.08N 66.55W   S   S   100 99  99  S   94  S   Air temperature and dewpoint data intermittent 07/30/21. Water temperature data intermittent.
+44013*   42.33N 70.65W   99  99  99  97  97  S   97  S   Air temperature and dewpoint data failed 07/09/21.
+44014     36.60N 74.83W   100 100 100 88  88  S   90  S   Air and dewpoint temperature data missing 12/30/21. Water temperature data are intermittent.
+44017*      40.68N 72.03W   100 100 100 99  99  100 S   100 Water temperature data missing 11/17/21.
+44018*    42.20N 70.13W   S   S   S   S   S   S   S   S   Buoy recovered 05/11/21.
+44020*   41.48N 70.27W   100 100 100 85  85  100 91  S   Dewpoint data failed 06/29/21.
+44025*   40.25N 73.15W   99  1   99  99  99  S   98  S   Air temperature and dewpoint data failed 07/08/20. Wind direction data failed 6/5/21. Water temperature and wind speed data are intermittent.
+44027*      44.27N 67.28W   100 100 100 100 100 100 100 100 
+44065*   40.37N 73.70W   100 100 100 95  95  S   86  S   Air temperature and dewpoint data failed 06/19/20. Water temperature data intermittent.
+44066*    39.62N 72.63W   100 100 100 99  99  100 95  100 Water temperature data intermittent.
+45001*    48.05N 87.78W   N   N   N   N   N   N   N   N   Buoy recovered for winter 10/29/21.
+45002*   45.33N 86.40W   N   N   N   N   N   N   N   N   Buoy recovered for winter 11/9/21.
+45003*   45.35N 82.83W   N   N   N   N   N   N   N   N   Buoy recovered for winter 12/13/21.
+45004*    47.58N 86.58W   N   N   N   N   N   N   N   N   Buoy recovered for winter 10/29/21.
+45005*    41.67N 82.38W   N   N   N   N   N   N   N   N   Buoy recovered for winter 11/29/21.
+45006*    47.33N 89.78W   N   N   N   N   N   N   N   N   Buoy recovered for winter 10/31/21.
+45007*   42.67N 87.02W   N   N   N   N   N   N   N   N   Buoy recovered for winter 12/7/21.
+45008*  44.28N 82.40W   N   N   N   N   N   N   N   N   Buoy recovered for winter 12/14/21.
+45012*    43.62N 77.40W   N   N   N   N   N   N   N   N   Buoy recovered for winter 11/28/21.
+46001*     56.22N 147.93W  S   S   S   S   S   S   S   N   Buoy adrift 12/10/21, data release stopped.
+46002*    42.65N 130.50W  100 100 100 99  99  100 89  100 Humidity data occasionally reports supersaturation resulting in intermittent data. Water temperature data intermittent.
+46005*   46.13N 131.07W  100 100 100 99  99  100 95  100 Water temperature data intermittent. Wave data intermittent 12/27/21.
+46006*     40.75N 137.37W  100 100 100 97  97  S   S   S   Air temperature and dewpoint data ceased 1/9/21. Water temperature data ceased 6/19/21.
+46011*  34.95N 121.02W  100 100 100 98  98  S   S   S   Water temperature data ceased 09/30/21. Air temperature and dewpoint data ceased 5/17/20.
+46012*  37.35N 122.87W  100 100 100 99  99  93  S   93  Water Temperature failed 6/5/20.
+46013* 38.25N 123.30W  S   S   S   S   S   S   S   S   Adrift buoy recovered 02/19/21.
+46014*  39.22N 123.97W  100 100 100 99  99  100 87  100 Air and dewpoint temperatures data are intermittent 12/26/21. Water temperature data intermittent.
+46015*   42.75N 124.83W  100 S   100 98  98  100 91  100 Wind direction data failed 12/24/21. Water temperature data intermittent.
+46022*  40.73N 124.52W  100 100 99  S   S   100 86  100 Water temperature data intermittent 12/7/21. Wave data sporadic/missing 10/11/21.
+46025*    33.75N 119.03W  100 100 100 99  99  100 88  100 Wave, Air, Dewpoint and water temperature data are intermittent due to low power/solar charging.
+46026*   37.75N 122.83W  100 100 100 99  99  S   93  S   Air temperature and dewpoint data failed 09/13/20.
+46027*     41.85N 124.37W  100 100 100 99  99  S   89  S   Air temperature and dewpoint data failed 04/26/20. Water temperature data intermittent.
+46028*  35.77N 121.90W  100 100 100 98  98  79  90  S   Air temperature data intermittent after 02/03/22. Dewpoint data failed 06/12/21. Water temperature data intermittent.
+46029*     46.15N 124.48W  100 100 100 99  99  100 92  S   Dewpoint data failed 01/10/22.
+46035*    57.00N 177.70W  100 100 100 100 100 100 100 N   
+46041*   47.35N 124.73W  100 100 100 99  99  100 88  88  Humidity and Water temperature data intermittent.
+46042*  36.78N 122.38W  100 100 100 95  95  74  75  S   Air temperature data missing 02/05/22. Dewpoint data failed 01/06/22. Water temperature data is intermittent.
+46047*    32.38N 119.52W  100 100 100 99  99  100 90  100 Water temperature data is intermittent.
+46050*    44.67N 124.53W  99  99  99  99  99  S   93  S   Air temperature and dewpoint data failed 10/03/20.
+46053* 34.23N 119.83W  100 100 100 98  98  100 89  100 Water temperature data intermittent.
+46054*   34.27N 120.47W  100 100 100 98  98  100 88  S   Dewpoint data failed 07/06/21. Water temperature data intermittent.
+46059*  38.05N 129.97W  100 100 100 98  98  100 78  95  Air, Dewpoint and Water temperature data are intermittent.
+46060*   60.58N 146.82W  S   S   S   S   S   S   S   N   Buoy recovered 9/25/21.
+46061*   60.23N 146.82W  100 100 100 100 100 S   85  N   Air temperature failed 7/8/21.
+46066*   52.75N 155.00W  S   S   S   S   S   S   S   S   Transmissions ceased 12/13/21.
+46069*    33.67N 120.20W  98  S   34  99  99  97  S   S   Humidity data missing 01/08/20. Wind direction failed 12/16/19. All station data reporting intermittent 9/16/20.
+46070*  55.00N 175.17E  100 100 100 100 100 86  100 74  Air temperature and dewpoint data failed 02/01/22.
+46071*     51.12N 179.00E  S   S   S   S   S   S   S   N   Buoy recovered 07/05/21.
+46072*  51.67N 172.08W  100 S   100 99  99  S   97  S   Air temperature and dewpoint data failed 11/28/20. Wind direction failed 3/2/21. Water temperature data is intermittent.
+46073*  55.00N 172.00W  99  S   99  99  99  S   99  S   Air temperature data failed 01/04/22. Wind direction data failed 10/22/21. Dewpoint data failed 09/29/20.
+46075*  53.97N 160.78W  S   S   S   S   S   S   S   S   Transmissions ceased 07/07/21.
+46076*   59.47N 148.00W  99  99  99  99  99  99  99  99  
+46077*    57.90N 154.17W  100 100 100 100 100 100 100 100 
+46078*   55.55N 152.57W  S   S   S   S   S   S   S   S   Transmissions ceased 12/12/21.
+46080* 57.93N 150.03W  99  S   99  99  99  99  99  99  Wind direction data failed 12/15/21.
+46081*    60.80N 148.27W  99  99  99  95  95  99  S   99  Water temperature data failed 01/24/22.
+46082*    59.67N 143.37W  100 100 100 100 100 100 100 100 
+46083*   58.27N 138.02W  100 100 100 100 100 100 S   100 Water temperature data failed 11/01/21.
+46084*   56.62N 136.10W  100 100 100 98  98  100 91  100 Water temperature data intermittent.
+46085*   55.88N 142.87W  100 100 100 99  99  100 89  S   Water temperature data intermittent. Dewpoint data failed 06/04/21.
+46086*   32.48N 118.05W  100 100 100 98  98  100 96  100 
+46087     48.48N 124.72W  S   S   S   S   S   S   S   S   Adrift buoy recovered 11/24/20.
+46088  48.32N 123.17W  S   S   S   S   S   S   S   S   Transmissions ceased 11/8/21.
+46089*  45.92N 125.78W  100 100 100 89  89  100 98  89  Humidity and Water temperature data intermittent.
+51000*   23.52N 153.78W  100 100 100 98  98  100 88  100 Water temperature data intermittent.
+51001   24.45N 162.00W  100 100 100 98  98  100 91  98  Water temperature data intermittent.
+51002*    17.03N 157.73W  100 100 100 99  99  100 89  100 Water temperature data intermittent.
+51003*   19.18N 160.63W  100 100 100 98  98  100 92  100 Water temperature data intermittent.
+51004*   17.53N 152.25W  100 100 100 98  98  100 97  100 
+51101*  24.35N 162.07W  100 100 100 99  99  100 88  100 Water temperature data intermittent.
+46221*   33.860N 118.641W 
+46214*   37.937N 123.463W
+46211*   46.857N 124.244W
+46224*   33.178N 117.472W
+46215*   35.204N 120.859W
+46222*   33.618N 118.317W
+46213*   40.295N 124.732W
+46235*   32.570N 117.169W
+46239*    36.335N 122.104W
+46240*    36.626N 121.907W
+46243*    46.216N 124.128W 
+46244*    40.896N 124.357W
+46232*    32.517N 117.425W
+44095*    35.750N 75.330W
+44100*    36.258N 75.593W
+42099*    27.349N 84.275W
+44024*    42.325N 65.909W
+
