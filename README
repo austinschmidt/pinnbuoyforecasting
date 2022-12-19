@@ -1,31 +1,17 @@
-See http://www.debian.org/ for information about Debian GNU/Linux.
-Four Debian releases are available on the main site:
+Jupyter Notebooks containing Python code for generating a dataset from HYCOM, ERA5, and raw buoy data for the purpose of buoy ocean feature forecasting. 
+Using PINNs, we show regularization from ocean models can result in more performant forecasting.
 
-Debian 8.11, or jessie.  Access this release through dists/oldoldoldstable
-Debian 8.11 was released Saturday, 23rd June 2018.
+The files included are:
 
-Debian 9.13, or stretch.  Access this release through dists/oldoldstable
-Debian 9.13 was released Saturday, 18th July 2020.
+1) station_lists.txt -> The full list of buoys considered and their lat/lon coordinates.
 
-Debian 10.13, or buster.  Access this release through dists/oldstable
-Debian 10.13 was released Saturday, 10th September 2022.
+2) BuoyChecking.ipynb -> Takes raw buoy data, HYCOM data (not included) and ERA5 data (not included) and produces a single dataset for 2011 (included).
 
-Debian 11.5, or bullseye.  Access this release through dists/stable
-Debian 11.5 was released Saturday, 10th September 2022.
+3-5) Buoy Forecasting Tests -> Code which trains/runs/tests and allows modifications to be made for collecting test results. 
+     With the provided data and proper Python libraries, an interactive model training interface makes test usage more clear. 
+     
+6) FullHorizonPlotting.ipynb -> Hard coded figures for final results staging.
 
-Testing, or bookworm.  Access this release through dists/testing.  The
-current tested development snapshot is named bookworm.  Packages which
-have been tested in unstable and passed automated tests propagate to
-this release.
+7) Full dataset under ProcessedData folder.
 
-Unstable, or sid.  Access this release through dists/unstable.  The
-current development snapshot is named sid.  Untested candidate
-packages for future releases.
-
-Older releases of Debian are at http://archive.debian.org/debian-archive
-
---- Other directories:
-doc             Debian documentation.
-indices         Various indices of the site.
-project         Experimental packages and other miscellaneous files.
-tools           Tools for creating boot disks and booting Linux.
+8) All results under the Results folder. 
